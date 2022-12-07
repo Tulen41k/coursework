@@ -1,0 +1,55 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.header-menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.h-button {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: rgb(177, 160, 125);
+}
+
+.heading {
+  text-align: center;
+}
+
+.picture {
+  width: 20%;
+}
+
+.home-box {
+  display: flex;
+  flex-direction: column;
+}
+
+.h-box {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+
+}
+
+.info {
+  margin: 15px;
+  width: 30%;
+}
+
+.button {
+  border: 2px;
+  outline: auto;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 12px;
+  border-radius: 100px;
+  color: #8B4513;
+}
