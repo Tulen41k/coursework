@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 
 function Header (){
+  console.log("Hello");
   return (
     <>
         <div className='header-menu'>
