@@ -27,9 +27,6 @@ function App (){
           <Route path="/About">
             <About/>
           </Route>
-          <Route path="/Test">
-            <Test/>
-          </Route>
           <Route path="/Info">
             <Info/>
           </Route>
